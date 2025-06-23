@@ -14,8 +14,7 @@
       </ul>
     <li><a href="#results">Results</a></li>
     <li><a href="#conclusion">Conclusion</a></li>
-    <li><a href="#contact">Contact</a></li>
-       
+      
   </ol>
 </details>
 
@@ -124,6 +123,4 @@ After the 3rd unsuccessfull attempt at typing the correct password , an alarm is
   ## Conclusion:
 In this project, we successfullty implemented a VHDL solution for digital Lock with proper functionning and multiple features including : password modification and an alarm system, using a  state machine algorithm . This solution can further implemented on a hardware level.
   
-  ### Contact:
-* Mail : mohamedamine.benabdeljelil@insat.u-carthage.tn -- mohamedaminebenjalil@yahoo.fr
-* Linked-in profile: https://www.linkedin.com/in/mohamed-amine-ben-abdeljelil-86a41a1a9/
+  
