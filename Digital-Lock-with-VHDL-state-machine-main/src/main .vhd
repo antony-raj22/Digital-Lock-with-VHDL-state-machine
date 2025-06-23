@@ -1,12 +1,8 @@
------------------------------------------------------------------------------------
-
--- Module Name:    SerrureDigitale - Behavioral 
 
 
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 
---declaration de l'entité de la serrure numerique
 
 entity SerrureTP4 is   
 port(
