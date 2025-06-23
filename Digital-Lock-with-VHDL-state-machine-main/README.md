@@ -52,7 +52,7 @@ Xilinx ISE suite 14.7 (or higher)
 
 ## Software implementation:
 ### Behavioral module: 
-* You can find the well commented behavioral module [here](https://github.com/mohamedamine99/Digital-Lock-with-VHDL-state-machine/blob/main/src/main%20.vhd)
+* You can find the well commented behavioral module [here](https://github.com/antony-raj22/Digital-Lock-with-VHDL-state-machine/blob/main/Digital-Lock-with-VHDL-state-machine-main/src/main%20.vhd)
 ### Testbench: 
 * You can find the Testbench [here](https://github.com/mohamedamine99/Digital-Lock-with-VHDL-state-machine/blob/main/src/testbench%20.vhd)
 
